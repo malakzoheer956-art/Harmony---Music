@@ -16,7 +16,7 @@
 
 ## 🔗 Live Demo
 Experience the live website directly through your browser here:  
-👉 [View Live Project](https://malakzoheer956-art.github.io/Harmony---Music-Website/html%20pages/index.html)
+👉[https://malakzoheer956-art.github.io/Malak-Resume/html%20pages/index.html](https://malakzoheer956-art.github.io/Malak-Resume/html%20pages/index.html)
 
 ## ⚙️ Key Features
 * **Neon Dark Mode Theme**: Sleek, immersive modern UI design.
